@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast and Slow Pointers/Fast and Slow Pointers.md",
+                "file": "Sliding Window/Sliding Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast and Slow Pointers"
+              "title": "Sliding Window"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast and Slow Pointers/Fast and Slow Pointers.md",
+                "file": "Sliding Window/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fast and Slow Pointers"
+              "title": "Backlinks for Sliding Window"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast and Slow Pointers/Fast and Slow Pointers.md",
+                "file": "Sliding Window/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fast and Slow Pointers"
+              "title": "Outgoing links from Sliding Window"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast and Slow Pointers/Fast and Slow Pointers.md"
+                "file": "Sliding Window/Sliding Window.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fast and Slow Pointers"
+              "title": "Outline of Sliding Window"
             }
           }
         ]
@@ -164,12 +164,19 @@
   },
   "active": "f3595f488affa9cf",
   "lastOpenFiles": [
-    "Two Pointers/Two Pointers.md",
+    "Sliding Window/Examples/Find Repeated Sequences.md",
+    "Sliding Window/Sliding Window.md",
+    "Sliding Window/Examples",
     "Fast and Slow Pointers/Fast and Slow Pointers.md",
+    "Fast and Slow Pointers/Examples/Linked List Class.md",
+    "Fast and Slow Pointers/Examples/Middle of Linked List.md",
+    "Sliding Window",
+    "Fast and Slow Pointers/Examples/Linked List Cycle.md",
+    "Two Pointers/Examples/3Sum.md",
+    "Two Pointers/Two Pointers.md",
     "Two Pointers/Examples/Remove Nth Node from Singly Linked List.md",
     "Fast and Slow Pointers/Examples",
     "Fast and Slow Pointers",
-    "Two Pointers/Examples/3Sum.md",
     "Two Pointers/Examples/Palindrome.md",
     "Two Pointers/Examples",
     "Two Pointers"
