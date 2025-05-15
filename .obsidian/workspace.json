@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sliding Window/Sliding Window.md",
+                "file": "Merge Intervals/Examples/Merge Intervals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "Merge Intervals"
+            }
+          },
+          {
+            "id": "4c5f23069c415abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lender Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lender Notes"
+            }
+          },
+          {
+            "id": "32677047d80e44be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "14fc2ef06c19e881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trie/Trie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trie"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,23 +206,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3595f488affa9cf",
+  "active": "14fc2ef06c19e881",
   "lastOpenFiles": [
+    "Trees/Binary Search Tree (BST).md",
+    "Trie/Trie.md",
+    "Trie",
+    "Graphs/Topological Sort.md",
+    "Trees",
+    "Graphs/Search/Depth First Search (DFS).md",
+    "Refresher Syllabus.md",
+    "_img/Data Structures Cheat Sheet 1.png",
+    "_img/Data Structures Cheat Sheet 2.png",
+    "_img",
+    "Sorting/Sort Examples.md",
+    "Sorting",
+    "Two Pointers/Examples/3Sum.md",
+    "Graphs/Search",
+    "Graphs",
+    "Two Pointers/Examples/Palindrome.md",
+    "Two Pointers/Examples/Remove Nth Node from Singly Linked List.md",
+    "Two Pointers/Two Pointers I.md",
+    "Two Pointers/Two Pointers II.md",
+    "Sliding Window/Sliding Window II.md",
+    "Sliding Window/Sliding Window I.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Lender Notes.md",
+    "Merge Intervals/Examples/Insert Interval.md",
+    "Merge Intervals/Examples/Merge Intervals.md",
+    "Merge Intervals/Merge Intervals.md",
     "Sliding Window/Examples/Find Repeated Sequences.md",
-    "Sliding Window/Sliding Window.md",
+    "Merge Intervals/Examples",
+    "Merge Intervals",
     "Sliding Window/Examples",
     "Fast and Slow Pointers/Fast and Slow Pointers.md",
     "Fast and Slow Pointers/Examples/Linked List Class.md",
     "Fast and Slow Pointers/Examples/Middle of Linked List.md",
     "Sliding Window",
-    "Fast and Slow Pointers/Examples/Linked List Cycle.md",
-    "Two Pointers/Examples/3Sum.md",
-    "Two Pointers/Two Pointers.md",
-    "Two Pointers/Examples/Remove Nth Node from Singly Linked List.md",
-    "Fast and Slow Pointers/Examples",
-    "Fast and Slow Pointers",
-    "Two Pointers/Examples/Palindrome.md",
-    "Two Pointers/Examples",
-    "Two Pointers"
+    "Fast and Slow Pointers/Examples/Linked List Cycle.md"
   ]
 }
